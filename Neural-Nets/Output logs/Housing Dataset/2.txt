@@ -1,0 +1,76 @@
+C:\Python27\python.exe "D:/PyCharm Projects/NeuralNets/ANN.py" "C:\Users\Krishna\Desktop\Assignments\2Machine Learning\Assignment 3\housingdata\processed.data" 80 0.01 2 2 2
+Training Error :88.0463267986
+Test Error : 23.4741729484
+Accuracy of the model is: 69.6078431373%
+Input Layer:
+	Neuron 1 weights:
+		0.115790055581
+		0.907246994737
+	Neuron 2 weights:
+		0.55027424655
+		0.168076126532
+	Neuron 3 weights:
+		-1.4789845675
+		0.511181082365
+	Neuron 4 weights:
+		1.41011925349
+		0.518505476825
+	Neuron 5 weights:
+		-6.87352958898
+		0.625350227695
+	Neuron 6 weights:
+		2.98210911348
+		0.480785846727
+	Neuron 7 weights:
+		2.29140690148
+		0.335612487176
+	Neuron 8 weights:
+		-1.77692480409
+		0.61528423944
+	Neuron 9 weights:
+		3.48846780017
+		0.371748771684
+	Neuron 10 weights:
+		1.46422476934
+		0.57236858143
+	Neuron 11 weights:
+		-2.34855116681
+		1.00868789924
+	Neuron 12 weights:
+		0.259550724028
+		-0.193785643756
+	Neuron 13 weights:
+		0.370939387341
+		1.37598846832
+Hidden Layer 1:
+	Bias Node 1 weight:
+		0.354152946185
+	Bias Node 2 weight:
+		0.735416243157
+	Neuron 1 weights:
+		-12.8412285151
+		-10.7022260323
+	Neuron 2 weights:
+		-0.145838920377
+		4.45816181765
+Hidden Layer 2:
+	Bias Node 1 weight:
+		0.118632712252
+	Bias Node 2 weight:
+		3.94451507124
+	Neuron 1 weights:
+		-2.43302128744
+		-6.02641105095
+		7.22478426975
+	Neuron 2 weights:
+		-9.50158772356
+		0.766233815182
+		1.36948347219
+Output Layer:
+	Bias Node 1 weight:
+		1.05678827655
+	Bias Node 2 weight:
+		-2.61630153138
+	Neuron 1 weights:
+	Neuron 2 weights:
+	Neuron 3 weights:

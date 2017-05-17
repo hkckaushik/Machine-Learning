@@ -1,0 +1,49 @@
+C:\Python27\python.exe "D:/PyCharm Projects/NeuralNets/ANN.py" "C:\Users\Krishna\Desktop\Assignments\2Machine Learning\Assignment 3\irisdata\processed.data" 80 0.01 2 2 2
+Training Error :2.45458507734
+Test Error : 0.53826860388
+Accuracy of the model is: 96.6666666667%
+Input Layer:
+	Neuron 1 weights:
+		-1.03412386109
+		-1.35373241462
+	Neuron 2 weights:
+		2.18421834017
+		4.28282317408
+	Neuron 3 weights:
+		1.70400435401
+		7.72372940254
+	Neuron 4 weights:
+		2.45030929438
+		-1.79358943228
+Hidden Layer 1:
+	Bias Node 1 weight:
+		0.246095097801
+	Bias Node 2 weight:
+		-5.78879815613
+	Neuron 1 weights:
+		5.23357682241
+		-4.34554554746
+	Neuron 2 weights:
+		2.65762354604
+		8.19589585223
+Hidden Layer 2:
+	Bias Node 1 weight:
+		-3.73852363364
+	Bias Node 2 weight:
+		-0.000791317545134
+	Neuron 1 weights:
+		-8.47472271439
+		4.02759336123
+		4.40150676422
+	Neuron 2 weights:
+		2.40426308136
+		-8.47020061541
+		6.32697753472
+Output Layer:
+	Bias Node 1 weight:
+		2.37114205623
+	Bias Node 2 weight:
+		-6.93510462205
+	Neuron 1 weights:
+	Neuron 2 weights:
+	Neuron 3 weights:
